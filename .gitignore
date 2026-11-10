@@ -5,6 +5,7 @@
 
 # 설치 패키지와 실행 캐시
 node_modules/
+.vercel/
 __pycache__/
 *.py[cod]
 
